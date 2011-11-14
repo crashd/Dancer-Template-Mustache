@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Dancer-Template-Mustache.t
+lib/Dancer/Template/Mustache.pm
